@@ -1,5 +1,0 @@
-These files have been prepared by Megan Hurley. These are the results of the Austenite Reconstruction Code, which are then converted to MOOSE input syntax using the writeMARMOT script.
-
-6.14.22 AM_6_9T_M2_2 Run 1 v2.txt - First run of the first set of microstructures delivered. Original scan is 214.8x406.0um, with 0.4 um resolution. Some BCC alpha-ferrite is retained in this structure.
-
-6.14.22 AM_6_9T_M2_2 Run 1 v2.txt - Second run of the first set of microstructures delivered. Original scan is 214.8x406.0um, with 0.4 um resolution. Some BCC alpha-ferrite is retained in this structure. 
